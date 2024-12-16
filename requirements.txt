@@ -1,0 +1,10 @@
+numpy
+pandas
+statsmodels
+sklearn
+pmdarima
+torch
+seaborn
+plotly
+matplotlib
+prophet
